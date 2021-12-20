@@ -29,12 +29,6 @@
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
 **I Mostly Code in HTML** 
 
 ```text
