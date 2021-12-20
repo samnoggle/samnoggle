@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Thousand%20lines%20of%20code-blue)
 
@@ -19,14 +19,20 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-🌆 Daytime    36 commits     ██████████░░░░░░░░░░░░░░░   43.37% 
-🌃 Evening    41 commits     ████████████░░░░░░░░░░░░░   49.4% 
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+🌆 Daytime    36 commits     ██████████░░░░░░░░░░░░░░░   42.35% 
+🌃 Evening    43 commits     ████████████░░░░░░░░░░░░░   50.59% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
 ```
 
 **I Mostly Code in HTML** 
@@ -40,10 +46,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/astruxie/astruxie/main/charts/bar_graph.png) 
 
 
  Last Updated on 20/12/2021
