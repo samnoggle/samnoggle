@@ -1,31 +1,17 @@
 ![greet](https://user-images.githubusercontent.com/44234583/146624354-9d461392-3676-4e7a-b12f-debc7319f53b.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
-> 🏆 107 Contributions in the Year 2021
- > 
-> 📦 107.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in Java** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Rich Text Format         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+💬 Programming Languages: 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
-
 
 
 <!--END_SECTION:waka-->
