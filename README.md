@@ -1,4 +1,5 @@
-![greet](https://user-images.githubusercontent.com/44234583/146624354-9d461392-3676-4e7a-b12f-debc7319f53b.gif)
+![greet](https://user-images.githubusercontent.com/44234583/146624354-9d461392-3676-4e7a-b12f-debc7319f53b.gif) 
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%204%20mins-blue)
@@ -17,5 +18,5 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 
 ```
 
-
 <!--END_SECTION:waka-->
+<img src="https://user-images.githubusercontent.com/44234583/191059235-95ebfce1-7fc7-4eee-baff-214d902e7c18.gif" width="12%"/>
