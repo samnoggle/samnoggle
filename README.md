@@ -4,15 +4,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-366%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-370%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 31 mins       ██████████████░░░░░░░░░░░   56.59% 
-Common Lisp              4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   43.34% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+Python                   4 hrs 46 mins       █████████████░░░░░░░░░░░░   53.04% 
+Common Lisp              4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   46.93% 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
