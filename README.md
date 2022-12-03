@@ -2,17 +2,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-702%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ███████████████████░░░░░░   77.33% 
-C#                       43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76% 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+C#                       6 hrs 17 mins       ██████████████░░░░░░░░░░░   56.4% 
+Python                   4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   38.74% 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
+CSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06% 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 ```
 
