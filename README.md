@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%208%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-704%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
