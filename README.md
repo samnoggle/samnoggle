@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -10,7 +10,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 19 mins       ██████████████░░░░░░░░░░░   57.98 % 
+Vue.js                   1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   37.24 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
