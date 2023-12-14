@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 8 mins        ████████████████░░░░░░░░░   63.38 % 
-Python                   1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
+Vue.js                   1 hr 14 mins        █████████████████░░░░░░░░   67.88 % 
+Python                   35 mins             ████████░░░░░░░░░░░░░░░░░   32.12 % 
 ```
 
 
