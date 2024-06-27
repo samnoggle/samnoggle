@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -10,8 +10,8 @@
 
 ```text
 💬 Programming Languages: 
-Blade Template           2 hrs 57 mins       ███████████████░░░░░░░░░░   60.83 % 
-PHP                      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.17 % 
+Blade Template           3 hrs 3 mins        ███████████████░░░░░░░░░░   60.84 % 
+PHP                      1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   39.16 % 
 ```
 
 
